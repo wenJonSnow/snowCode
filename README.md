@@ -21,6 +21,7 @@
 
 ## 前端
 
+[Mac 开发 常用软件](https://github.com/wenJonSnow/snowCode/issues/17)
 
 [在 package.json 中设置全局变量](https://github.com/wenJonSnow/snowCode/issues/16)
 
