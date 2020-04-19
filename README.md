@@ -21,6 +21,19 @@
 
 ## 前端
 
+
+[在 package.json 中设置全局变量](https://github.com/wenJonSnow/snowCode/issues/16)
+
+[Git flow  流程](https://github.com/wenJonSnow/snowCode/issues/14)
+
+[Git 常用命令](https://github.com/wenJonSnow/snowCode/issues/15)
+
+[软件盘搜索时如何显示“搜索”enter键](https://github.com/wenJonSnow/snowCode/issues/13)
+
+[解决Google 阻止默认事件失败的方法](https://github.com/wenJonSnow/snowCode/issues/12)
+
+[eslint 配置说明](https://github.com/wenJonSnow/snowCode/issues/11)
+
 [移动端h5 小问题](https://github.com/wenJonSnow/snowCode/issues/5)
 
 [google浏览器设置跨域](https://github.com/wenJonSnow/snowCode/issues/4)
