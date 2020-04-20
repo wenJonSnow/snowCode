@@ -1,5 +1,4 @@
 # snowCode
-前端·学渣
 
 
 
@@ -20,7 +19,7 @@
 
 
 ## 前端
-[flutter入门记录（1](https://github.com/wenJonSnow/snowCode/issues/18)
+[flutter入门记录（1）](https://github.com/wenJonSnow/snowCode/issues/18)
 
 [Mac 开发 常用软件](https://github.com/wenJonSnow/snowCode/issues/17)
 
