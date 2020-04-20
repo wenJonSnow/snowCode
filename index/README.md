@@ -33,7 +33,7 @@
 
 ##### 工作技能
 
-熟悉 React、Redux、Ant Design 、dva、mockjs、 ES6 、Vue 、express、 nunjucks、。
+熟悉 React、Redux、Ant Design 、dva、mockjs、 ES6 、Vue 、element-ui、express、 nunjucks。
 
 熟悉 HTML5、CSS3、SCSS、LESS、JavaScript、jQuery、Highcharts、Echarts、Bizcharts、G2。
 
@@ -46,7 +46,7 @@
 
 |    项目     |                    简介                    |                    任务                    |                   主要技能                   |
 | :-------: | :--------------------------------------: | :--------------------------------------: | :--------------------------------------: |
-| 爱问-ishare | ishare-m端、ishare-pc端、ishare-pc办公、ishare后台管理系统[https://m.ishare.iask.sina.com.cn/](https://m.ishare.iask.sina.com.cn/) | 优化框架结构、优化项目部署流程、确定项目分支管理、分配人员需求、与相关方确定方案、完成每次迭代需求任务 | vue、express、nunjucks、grunt、 seajs、 pm2、jquery、nginx、gitflow |
+| 爱问-ishare | ishare-m端、ishare-pc端、ishare-pc办公、ishare后台管理系统[https://m.ishare.iask.sina.com.cn/](https://m.ishare.iask.sina.com.cn/) | 优化框架结构、优化项目部署流程、确定项目分支管理、分配人员需求、与相关方确定方案、完成每次迭代需求任务 | express服务端渲染、nunjucks、grunt、 seajs、 pm2、jquery、nginx、gitflow、vue、element-ui |
 
 2. 平安陆金所香港团队(深圳 - 平安金融中心)  
 
