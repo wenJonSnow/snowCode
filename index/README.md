@@ -33,7 +33,7 @@
 
 ##### 工作技能
 
-熟悉 React、Redux、Ant Design 、dva、mockjs、 ES6 、Vue 、element-ui、express、 nunjucks。
+熟悉 React、Redux、Ant Design 、dva、mockjs、 ES6 、Vue 、express、 nunjucks。
 
 熟悉 HTML5、CSS3、SCSS、LESS、JavaScript、jQuery、Highcharts、Echarts、Bizcharts、G2。
 
