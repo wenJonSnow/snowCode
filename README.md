@@ -47,6 +47,9 @@
 
 [generator 实现 for of](https://github.com/wenJonSnow/snowCode/issues/1)
 
+[call apply bind 实现](https://github.com/wenJonSnow/snowCode/issues/20)
+
+
 
 
    
