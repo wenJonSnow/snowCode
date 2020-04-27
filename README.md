@@ -49,6 +49,8 @@
 
 [call apply bind 实现](https://github.com/wenJonSnow/snowCode/issues/20)
 
+[关于上传下载](https://github.com/wenJonSnow/snowCode/issues/21)
+
 
 
 
